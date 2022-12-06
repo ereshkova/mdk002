@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wsvgX8IjzwEvuZkQhlfte+DYCd3HH0XTKfHy/lv5bIfycutd089kC6+n60Uelqm6vXjF3M5PrJFmDyK1knA4kw==",
+  "success": true,
+  "projectFilePath": "/home/user/Рабочий стол/dfd/dfd.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

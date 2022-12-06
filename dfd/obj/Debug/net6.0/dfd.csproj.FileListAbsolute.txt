@@ -1,0 +1,15 @@
+/home/user/Рабочий стол/dfd/bin/Debug/net6.0/dfd
+/home/user/Рабочий стол/dfd/bin/Debug/net6.0/dfd.deps.json
+/home/user/Рабочий стол/dfd/bin/Debug/net6.0/dfd.runtimeconfig.json
+/home/user/Рабочий стол/dfd/bin/Debug/net6.0/dfd.dll
+/home/user/Рабочий стол/dfd/bin/Debug/net6.0/dfd.pdb
+/home/user/Рабочий стол/dfd/obj/Debug/net6.0/dfd.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/dfd/obj/Debug/net6.0/dfd.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/dfd/obj/Debug/net6.0/dfd.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/dfd/obj/Debug/net6.0/dfd.AssemblyInfo.cs
+/home/user/Рабочий стол/dfd/obj/Debug/net6.0/dfd.csproj.CoreCompileInputs.cache
+/home/user/Рабочий стол/dfd/obj/Debug/net6.0/dfd.dll
+/home/user/Рабочий стол/dfd/obj/Debug/net6.0/refint/dfd.dll
+/home/user/Рабочий стол/dfd/obj/Debug/net6.0/dfd.pdb
+/home/user/Рабочий стол/dfd/obj/Debug/net6.0/dfd.genruntimeconfig.cache
+/home/user/Рабочий стол/dfd/obj/Debug/net6.0/ref/dfd.dll
